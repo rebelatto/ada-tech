@@ -5,17 +5,17 @@
 1. configurar usario e email
 	
 	`git config --global user.name "username" `
-	git config --global user.email "email"
+	`git config --global user.email "email"`
 
 2. inicializar o repositorio git
 
-    git init
+    `git init`
 
 ## Conhecendo alguns comandos
 
 - Verificar em qual estágio está os arquivos
 	
-	git status
+	`git status`
 
 
 ## Primeiro COMMIT
