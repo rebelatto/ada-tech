@@ -4,8 +4,7 @@
 
 1. configurar usario e email
 	
-	`git config --global user.name "username" `
-	
+	`git config --global user.name "username"`
 	`git config --global user.email "email"`
 
 2. inicializar o repositorio git
