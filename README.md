@@ -1,23 +1,24 @@
 # Estudo de Git e Versionamento
 
-# Git configuração inicial.
+## Git configuração inicial.
 
-1 configurar usario e email
+1. configurar usario e email
 	
 	git config --global user.name "username" 
 	git config --global user.email "email"
 
-2 inicializar o repositorio git
+2. inicializar o repositorio git
+
     git init
 
-# Conhecendo alguns comandos
+## Conhecendo alguns comandos
 
 - Verificar em qual estágio está os arquivos
 	
 	git status
 
 
-# Primeiro COMMIT
+## Primeiro COMMIT
 
 - Passar um arquivo de 
 
