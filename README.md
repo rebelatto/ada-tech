@@ -3,6 +3,7 @@
 # Git configuração inicial.
 
 1 configurar usario e email
+	
 	git config --global user.name "username" 
 	git config --global user.email "email"
 
@@ -12,6 +13,7 @@
 # Conhecendo alguns comandos
 
 - Verificar em qual estágio está os arquivos
+	
 	git status
 
 
