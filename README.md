@@ -23,7 +23,6 @@
 	git status
 	```
 
-
 ## Primeiro COMMIT
 
 - Passar um arquivo de 
